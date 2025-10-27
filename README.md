@@ -10,4 +10,4 @@
 
 ## Our project’s purpose is to provide a one-stop winter care platform for pet owners, helping them keep their pets warm, healthy, and safe during the cold season. It connects users with local pet services, winter products, and expert guidance, ensuring pets receive the best seasonal care in a convenient and friendly way.
 
-### Using packages: React, React Router, Tailwindcss, DaisyUI, Swiper, React icons, Animate.css, Aos, React fast Marquee, React hot toast, Firebase, React Tooltip,
+### Using packages: React, React Router, Tailwindcss, DaisyUI, Swiper, React icons, Animate.css, Aos, React fast Marquee, React hot toast, Firebase, React Tooltip.
