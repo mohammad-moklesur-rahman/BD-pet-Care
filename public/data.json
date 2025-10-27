@@ -1,0 +1,110 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Keep your furry friend warm and stylish this winter with our custom coat fitting service. We design tailored coats that ensure comfort, proper fit, and protection from harsh cold weather.",
+    "image": "https://i.postimg.cc/Zny2FtGK/1.webp",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Our winter grooming includes deep coat cleaning with warm, moisturizing shampoos and protective paw balm to prevent dryness or cracking. Perfect for pets that love outdoor walks during cold days.",
+    "image": "https://i.postimg.cc/BvTxFh79/2.avif",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Pet Bed Rental",
+    "providerName": "WarmPaws Comfort",
+    "providerEmail": "service@warmpaws.com",
+    "price": 15,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Rent cozy heated beds to ensure your pet stays warm and relaxed even on the coldest winter nights. All our beds are safe, easy to clean, and vet-approved for daily use.",
+    "image": "https://i.postimg.cc/k4VRcfwp/3.jpg",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Diet Consultation",
+    "providerName": "PetWell Nutrition",
+    "providerEmail": "contact@petwell.com",
+    "price": 40,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Get expert nutrition advice tailored for cold weather. Our consultants recommend balanced, energy-rich diets that help pets maintain body temperature, boost immunity, and stay active throughout the chilly season.",
+    "image": "https://i.postimg.cc/15YhxBKD/4.jpg",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Winter Pet Photography",
+    "providerName": "FrostyTails Studio",
+    "providerEmail": "booking@frostytails.com",
+    "price": 55,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Capture your pet’s magical winter memories with professional photography. We provide warm props, cozy settings, and outdoor snow sessions to create stunning photos of your furry companion in style.",
+    "image": "https://i.postimg.cc/h46bH7db/5.avif",
+    "category": "Photography"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Snow Walk Adventure",
+    "providerName": "ArcticPaws Tours",
+    "providerEmail": "info@arcticpaws.com",
+    "price": 35,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Enjoy guided winter walks designed for pets and owners. We provide snow gear, hydration breaks, and safe routes to ensure a fun, energizing experience while exploring the beautiful winter outdoors.",
+    "image": "https://i.postimg.cc/qBwTgd8g/6.jpg",
+    "category": "Outdoor Activity"
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Winter Boarding & Daycare",
+    "providerName": "CozyNest Pet Home",
+    "providerEmail": "stay@cozynest.com",
+    "price": 50,
+    "rating": 4.9,
+    "slotsAvailable": 8,
+    "description": "Our temperature-controlled boarding space ensures your pet enjoys a warm and cozy stay during winter. We offer heated floors, soft blankets, and supervised playtime for ultimate comfort and happiness.",
+    "image": "https://i.postimg.cc/XvPgsXSf/7.webp",
+    "category": "Boarding"
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Pet Sweater Knitting Workshop",
+    "providerName": "PawCraft Studio",
+    "providerEmail": "craft@pawcraft.com",
+    "price": 20,
+    "rating": 4.7,
+    "slotsAvailable": 10,
+    "description": "Join our creative workshop to learn how to knit warm, stylish sweaters for your pets. We provide all materials, friendly instruction, and pattern ideas for all sizes and breeds.",
+    "image": "https://i.postimg.cc/VNzN2Fw2/8.jpg",
+    "category": "DIY Workshop"
+  },
+  {
+    "serviceId": 9,
+    "serviceName": "Winter Health Check-Up",
+    "providerName": "HappyTails Vet Clinic",
+    "providerEmail": "vet@happytails.com",
+    "price": 60,
+    "rating": 5.0,
+    "slotsAvailable": 4,
+    "description": "A complete veterinary examination focused on common winter issues like dry skin, low energy, and respiratory problems. Ensure your pet stays healthy, hydrated, and warm through professional winter care.",
+    "image": "https://i.postimg.cc/5yW9q5sF/9.webp",
+    "category": "Veterinary"
+  }
+]
