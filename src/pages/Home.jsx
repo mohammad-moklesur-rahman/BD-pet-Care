@@ -25,7 +25,7 @@ const Home = () => {
         <section>
           <CareTips />
         </section>
-        <section className="bg-gray-300 pb-12 pt-8">
+        <section>
           <MeetExperts />
         </section>
         <section className="bg-gray-100 pb-12 pt-8">
