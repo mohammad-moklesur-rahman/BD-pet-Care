@@ -7,7 +7,7 @@ const CareTips = () => {
   useEffect(() => {
     AOS.init({
       duration: 1000,
-      once: true,
+      once: false,
     });
   }, []);
 
@@ -19,7 +19,7 @@ const CareTips = () => {
       >
         Winter Care Tips for Pets
       </h2>
-      <MyContainer className='px-4 md:px-0'>
+      <MyContainer className="px-4 md:px-0">
         <div
           data-aos="fade-up"
           className="bg-white/70 backdrop-blur-xl shadow-2xl rounded-3xl border border-white/40 p-10 md:p-16"
@@ -50,7 +50,7 @@ const CareTips = () => {
 
             {/* RIGHT ILLUSTRATION SECTION */}
             <div
-              data-aos="fade-left"
+              data-aos="zoom-in"
               className="relative flex justify-center items-center"
             >
               <div className="w-full h-64 md:h-80 bg-gradient-to-br from-[#A4C8E1] to-[#DCE9F4] rounded-3xl shadow-inner border border-white/50 flex items-center justify-center">

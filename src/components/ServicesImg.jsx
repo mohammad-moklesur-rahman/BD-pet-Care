@@ -99,8 +99,8 @@ const ServicesImg = () => {
 
         {/* RIGHT: Dynamic Text */}
         <div
+          data-aos="zoom-in"
           key={activeIndex}
-          data-aos="fade-left"
           className="p-8 bg-white/70 backdrop-blur-xl rounded-2xl shadow-2xl 
           border border-white/40 transition-all duration-500"
         >
