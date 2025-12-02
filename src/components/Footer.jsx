@@ -16,18 +16,28 @@ const Footer = () => {
             <br />
             Address: 45 Pet Street, Bangladesh.
           </p>
-          <Link>privacy policy</Link>
+          <div className="flex flex-col md:flex-row my-2 font-bold text-green-300 ">
+            <Link to="/" className="hover:text-base-100">
+              Home
+            </Link>
+            <Link to="/about" className="mx-4 hover:text-base-100">
+              About
+            </Link>
+            <Link to="/privacy" className="hover:text-base-100">
+              privacy policy
+            </Link>
+          </div>
           <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
         </aside>
         <nav>
           <div className="grid grid-flow-col gap-4">
-            <Link>
+            <Link to="/">
               <FaTwitter size={25} />
             </Link>
-            <Link>
+            <Link to="/">
               <FaYoutube size={25} />
             </Link>
-            <Link>
+            <Link to="/">
               <FaFacebook size={25} />
             </Link>
           </div>
