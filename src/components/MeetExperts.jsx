@@ -38,7 +38,7 @@ const MeetExperts = () => {
 
   return (
     <div className="bg-base-300 pb-20 pt-10">
-      <MyContainer>
+      <MyContainer className="px-4 md:px-0">
         <h2
           data-aos="fade-right"
           className="text-2xl font-semibold mb-10 text-center"

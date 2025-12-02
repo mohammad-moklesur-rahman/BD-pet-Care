@@ -45,7 +45,7 @@ const ServicesCard = () => {
   };
 
   return (
-    <MyContainer>
+    <MyContainer className="px-4 md:px-0">
       <h2
         data-aos="fade-right"
         className="text-2xl font-semibold mb-8 text-center"

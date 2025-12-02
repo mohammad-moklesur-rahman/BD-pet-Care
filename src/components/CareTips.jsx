@@ -19,7 +19,7 @@ const CareTips = () => {
       >
         Winter Care Tips for Pets
       </h2>
-      <MyContainer>
+      <MyContainer className='px-4 md:px-0'>
         <div
           data-aos="fade-up"
           className="bg-white/70 backdrop-blur-xl shadow-2xl rounded-3xl border border-white/40 p-10 md:p-16"

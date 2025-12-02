@@ -28,7 +28,7 @@ const About = () => {
 
   return (
     <div className="bg-gradient-to-b from-gray-100 to-gray-200 py-20 min-h-screen">
-      <MyContainer>
+      <MyContainer className="px-4 md:px-0">
         {/* HEADER */}
         <div data-aos="fade-down" className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900">

@@ -57,7 +57,7 @@ const Services = () => {
 
   return (
     <div className="bg-base-200 pb-12 min-h-screen">
-      <MyContainer>
+      <MyContainer className="px-4 md:px-0">
         {/* PAGE TITLE */}
         <h2
           data-aos="fade-right"

@@ -31,7 +31,7 @@ const ContentSwiper = () => {
 
   return (
     <MyContainer>
-      <div data-aos="fade-up" className="h-[370px]">
+      <div data-aos="fade-up" className="h-[370px] px-4 md:px-0">
         <Swiper
           spaceBetween={30}
           centeredSlides={true}

@@ -33,7 +33,7 @@ const ServicesImg = () => {
   }, []);
 
   return (
-    <MyContainer>
+    <MyContainer className="px-4 md:px-0">
       <h2
         data-aos="fade-up"
         className="text-3xl font-bold text-center mb-10 tracking-wide"
@@ -115,7 +115,9 @@ const ServicesImg = () => {
 
           <button
             onClick={() =>
-              navigate(`/services/details/${servicesData[activeIndex]?.serviceId}`)
+              navigate(
+                `/services/details/${servicesData[activeIndex]?.serviceId}`
+              )
             }
             className="mt-4 bg-[#717171] text-white px-6 py-3 rounded-full text-lg font-semibold
             hover:bg-gray-800 hover:scale-105 transition-all duration-300 shadow-lg"
