@@ -15,6 +15,8 @@ import PrivateRoute from "./PrivateRoute";
 import ForgetPassword from "../pages/ForgetPassword";
 import ErrorPage from "../pages/ErrorPage";
 import About from "../pages/About";
+import Blog from "../pages/Blog";
+import Privacy from "../pages/Privacy";
 
 const router = createBrowserRouter([
   {
@@ -35,6 +37,14 @@ const router = createBrowserRouter([
         Component: About,
       },
       {
+        path: "blog",
+        Component: Blog,
+      },
+      {
+        path: "privacy",
+        Component: Privacy,
+      },
+      {
         path: "/services",
         children: [
           {
@@ -47,11 +57,7 @@ const router = createBrowserRouter([
           },
           {
             path: "details/:id",
-            element: (
-              <PrivateRoute>
-                <DetailsLayout />
-              </PrivateRoute>
-            ),
+            element: <DetailsLayout />,
             children: [
               {
                 index: true,

@@ -35,8 +35,8 @@ const Navbar = () => {
       <NavLink to="/">Home</NavLink>
       <NavLink to="/services">Services</NavLink>
       <NavLink to="/about">About</NavLink>
-      <NavLink to="/about">Blog</NavLink>
-      <NavLink to="/about">Privacy</NavLink>
+      <NavLink to="/blog">Blog</NavLink>
+      <NavLink to="/privacy">Privacy</NavLink>
     </>
   );
   return (
@@ -103,7 +103,7 @@ const Navbar = () => {
                     className="dropdown-content menu bg-gray-600  rounded-box w-27 p-2 shadow-sm z-50"
                   >
                     <li>
-                      <Link to='/profile' >Profile</Link>
+                      <Link to="/profile">Profile</Link>
                     </li>
                     <li>
                       <a onClick={handelLogOut}>Log Out</a>
