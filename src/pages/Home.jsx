@@ -28,7 +28,7 @@ const Home = () => {
         <section>
           <MeetExperts />
         </section>
-        <section className="bg-gray-100 pb-12 pt-8">
+        <section className="bg-gray-400 pb-12 pt-8">
           <ServicesImg />
         </section>
       </main>
