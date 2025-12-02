@@ -1,6 +1,6 @@
 import slide1 from "../assets/slider1.png";
 import slide2 from "../assets/slider2.png";
-import slide3 from "../assets/slider4.png";
+import slide3 from "../assets/slider3.png";
 import slide4 from "../assets/slider4.png";
 import slide5 from "../assets/slider5.png";
 
@@ -31,7 +31,7 @@ const ContentSwiper = () => {
 
   return (
     <MyContainer>
-      <div data-aos="fade-up" className="h-[350px]">
+      <div data-aos="fade-up" className="h-[370px]">
         <Swiper
           spaceBetween={30}
           centeredSlides={true}
@@ -48,19 +48,43 @@ const ContentSwiper = () => {
           className="mySwiper"
         >
           <SwiperSlide>
-            <img src={slide5} alt="" />
+            <div className="w-full h-full bg-gradient-to-br from-[#A4C8E1] to-[#DCE9F4] rounded-3xl shadow-inner border border-white/50 flex items-center justify-center">
+              <div className="w-127 ">
+                <img src={slide1} alt="slider1" />
+              </div>
+            </div>
           </SwiperSlide>
+
           <SwiperSlide>
-            <img src={slide2} alt="" />
+            <div className="w-full h-full bg-gradient-to-br from-[#A4C8E1] to-[#DCE9F4] rounded-3xl shadow-inner border border-white/50 flex items-center justify-center">
+              <div className="w-150 ">
+                <img src={slide2} alt="slider2" />
+              </div>
+            </div>
           </SwiperSlide>
+
           <SwiperSlide>
-            <img src={slide3} alt="" />
+            <div className="w-full h-full bg-gradient-to-br from-[#A4C8E1] to-[#DCE9F4] rounded-3xl shadow-inner border border-white/50 flex items-center justify-center">
+              <div className="w-135 ">
+                <img src={slide3} alt="slider3" />
+              </div>
+            </div>
           </SwiperSlide>
+
           <SwiperSlide>
-            <img src={slide4} alt="" />
+            <div className="w-full h-full bg-gradient-to-br from-[#A4C8E1] to-[#DCE9F4] rounded-3xl shadow-inner border border-white/50 flex items-center justify-center">
+              <div className="w-130 ">
+                <img src={slide4} alt="slider4" />
+              </div>
+            </div>
           </SwiperSlide>
+
           <SwiperSlide>
-            <img src={slide1} alt="" />
+            <div className="w-full h-full bg-gradient-to-br from-[#A4C8E1] to-[#DCE9F4] rounded-3xl shadow-inner border border-white/50 flex items-center justify-center">
+              <div className="w-150 ">
+                <img src={slide5} alt="slider5" />
+              </div>
+            </div>
           </SwiperSlide>
 
           <div className="autoplay-progress" slot="container-end">

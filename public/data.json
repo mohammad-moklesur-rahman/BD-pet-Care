@@ -8,6 +8,7 @@
     "rating": 4.9,
     "slotsAvailable": 4,
     "description": "Keep your furry friend warm and stylish this winter with our custom coat fitting service. We design tailored coats that ensure comfort, proper fit, and protection from harsh cold weather.",
+    "more_des": "Our Winter Coat Fitting service ensures pets stay warm, safe, and stylish throughout the cold season. Each coat is tailored to match your dog’s unique body shape, guaranteeing a perfect, comfortable fit that doesn’t restrict movement. We use soft, insulated fabrics that shield against freezing temperatures, wind, and moisture. During the session, our experts take precise measurements, discuss fabric options, and help choose designs suited for your pet’s lifestyle. Whether your dog loves outdoor adventures or prefers cozy walks, we create coats that offer both function and fashion. The experience is stress-free, gentle, and enjoyable for pets of all sizes.",
     "image": "https://i.postimg.cc/Zny2FtGK/1.webp",
     "category": "Clothing"
   },
@@ -20,6 +21,7 @@
     "rating": 4.8,
     "slotsAvailable": 3,
     "description": "Our winter grooming includes deep coat cleaning with warm, moisturizing shampoos and protective paw balm to prevent dryness or cracking. Perfect for pets that love outdoor walks during cold days.",
+    "more_des": "Winter Grooming & Paw Treatment is designed to give your pet complete seasonal protection. Cold air, snow, and dry indoor heat can damage your pet’s skin and coat, so our service includes warm, soothing baths with high-quality moisturizing shampoos to restore softness and shine. We also apply nourishing coat conditioners to prevent matting and dryness. The session includes a specialized paw treatment using healing balms that protect against cracking, salt burns, and harsh winter surfaces. Our groomers use gentle techniques and ensure pets remain relaxed throughout the process. This service is ideal for active pets and those sensitive to cold weather conditions.",
     "image": "https://i.postimg.cc/BvTxFh79/2.avif",
     "category": "Grooming"
   },
@@ -32,9 +34,11 @@
     "rating": 4.7,
     "slotsAvailable": 6,
     "description": "Rent cozy heated beds to ensure your pet stays warm and relaxed even on the coldest winter nights. All our beds are safe, easy to clean, and vet-approved for daily use.",
+    "more_des": "Our Heated Pet Bed Rental service provides warmth, comfort, and safety for pets who struggle with cold nights. Each heated bed is made from soft, durable materials and designed to maintain a consistent, pet-safe temperature. These beds are perfect for senior pets, small breeds, and pets recovering from illness or surgery. They reduce joint stiffness, improve sleep quality, and offer a calming environment. We thoroughly sanitize each bed before every rental period and provide clear usage instructions. Whether for travel, temporary winter care, or chronic cold sensitivity, our beds offer premium comfort backed by vet-approved safety standards.",
     "image": "https://i.postimg.cc/k4VRcfwp/3.jpg",
     "category": "Comfort"
   },
+
   {
     "serviceId": 4,
     "serviceName": "Winter Diet Consultation",
@@ -44,6 +48,7 @@
     "rating": 4.9,
     "slotsAvailable": 2,
     "description": "Get expert nutrition advice tailored for cold weather. Our consultants recommend balanced, energy-rich diets that help pets maintain body temperature, boost immunity, and stay active throughout the chilly season.",
+    "more_des": "Winter Diet Consultation focuses on analyzing your pet’s nutritional needs during the colder months when energy demands naturally increase. Our experts evaluate your pet’s age, breed, weight, activity level, and health conditions to design a personalized winter diet plan. We recommend high-quality proteins, healthy fats, and nutrient-rich foods that support warmth, immunity, and digestion. The consultation also covers hydration tips, supplement advice, and feeding schedules to keep your pet healthy and active. Whether your pet is an indoor snuggler or an energetic outdoor explorer, we ensure their nutrition supports their winter lifestyle. Each plan is easy to follow and vet-approved.",
     "image": "https://i.postimg.cc/15YhxBKD/4.jpg",
     "category": "Nutrition"
   },
@@ -56,9 +61,11 @@
     "rating": 4.6,
     "slotsAvailable": 5,
     "description": "Capture your pet’s magical winter memories with professional photography. We provide warm props, cozy settings, and outdoor snow sessions to create stunning photos of your furry companion in style.",
+    "more_des": "Our Winter Pet Photography service turns cold-season moments into beautiful memories. We use professional equipment, creative lighting, and seasonal backgrounds to highlight your pet’s charm in winter settings. Whether you prefer indoor cozy themes or outdoor snow-filled adventures, we offer safe, pet-friendly environments for each photoshoot. Warm blankets, cute winter props, and treats help keep pets comfortable and engaged. Our photographers specialize in capturing expressions, poses, and playful movements, resulting in high-quality images you'll love. The session includes editing, multiple finalized shots, and options for prints or digital albums. Perfect for holiday cards, social media, or keepsakes.",
     "image": "https://i.postimg.cc/h46bH7db/5.avif",
     "category": "Photography"
   },
+
   {
     "serviceId": 6,
     "serviceName": "Snow Walk Adventure",
@@ -68,9 +75,11 @@
     "rating": 4.8,
     "slotsAvailable": 3,
     "description": "Enjoy guided winter walks designed for pets and owners. We provide snow gear, hydration breaks, and safe routes to ensure a fun, energizing experience while exploring the beautiful winter outdoors.",
+    "more_des": "Snow Walk Adventure offers an exciting outdoor experience designed for pets and their owners who enjoy winter landscapes. Our trained guides lead small groups through safe, scenic snowy trails where pets can explore freely and safely. We provide winter gear such as booties, jackets, and harnesses to protect pets from cold surfaces and chilly winds. Hydration breaks, rest stops, and photo spots are incorporated into the walk to keep the experience comfortable and memorable. This adventure strengthens bonding, boosts your pet’s energy levels, and provides a refreshing break from indoor winter routines. Suitable for pets of all energy levels.",
     "image": "https://i.postimg.cc/qBwTgd8g/6.jpg",
     "category": "Outdoor Activity"
   },
+
   {
     "serviceId": 7,
     "serviceName": "Winter Boarding & Daycare",
@@ -80,9 +89,11 @@
     "rating": 4.9,
     "slotsAvailable": 8,
     "description": "Our temperature-controlled boarding space ensures your pet enjoys a warm and cozy stay during winter. We offer heated floors, soft blankets, and supervised playtime for ultimate comfort and happiness.",
+    "more_des": "Winter Boarding & Daycare provides a warm, safe environment for pets who need care during the cold season. Our facility features temperature-controlled rooms, heated floors, and soft bedding to ensure maximum comfort. Pets enjoy supervised indoor playtime, gentle winter exercise sessions, and structured feeding routines. Our staff monitors their behavior, mood, and health throughout the stay. We also offer regular updates to owners, including photos and quick reports. Whether you’re traveling or need daytime support, our winter daycare keeps pets relaxed, active, and socially engaged. Hygiene, comfort, and safety are our highest priorities, making every visit stress-free.",
     "image": "https://i.postimg.cc/XvPgsXSf/7.webp",
     "category": "Boarding"
   },
+
   {
     "serviceId": 8,
     "serviceName": "Pet Sweater Knitting Workshop",
@@ -92,9 +103,11 @@
     "rating": 4.7,
     "slotsAvailable": 10,
     "description": "Join our creative workshop to learn how to knit warm, stylish sweaters for your pets. We provide all materials, friendly instruction, and pattern ideas for all sizes and breeds.",
+    "more_des": "The Pet Sweater Knitting Workshop is a fun and creative way for pet owners to make personalized winter clothing for their furry companions. Whether you are a beginner or an experienced crafter, our friendly instructors guide you through every step—from choosing yarn to completing a beautifully knitted sweater. We provide soft, warm materials that keep pets comfortable during winter. Participants also receive pattern options suited for different breeds and sizes. The workshop environment is calm, supportive, and enjoyable, allowing you to learn new skills while bonding with fellow pet lovers. By the end, you leave with a custom, handmade sweater for your pet.",
     "image": "https://i.postimg.cc/VNzN2Fw2/8.jpg",
     "category": "DIY Workshop"
   },
+
   {
     "serviceId": 9,
     "serviceName": "Winter Health Check-Up",
@@ -104,7 +117,162 @@
     "rating": 5.0,
     "slotsAvailable": 4,
     "description": "A complete veterinary examination focused on common winter issues like dry skin, low energy, and respiratory problems. Ensure your pet stays healthy, hydrated, and warm through professional winter care.",
-    "image": "https://i.postimg.cc/5yW9q5sF/9.webp",
+    "more_des": "Our Winter Health Check-Up provides a thorough veterinary evaluation designed to address the unique challenges pets face during colder months. Dry air, reduced activity, and freezing temperatures can cause several seasonal health issues. Our vets examine your pet’s skin, coat, breathing, joints, hydration levels, and overall energy. We also check for early signs of respiratory infections, allergies, or nutritional deficiencies that commonly appear during winter. After the examination, we provide a personalized winter care plan that includes diet suggestions, supplements, grooming routines, and environmental tips to keep pets comfortable and safe. This service ensures long-term well-being and peace of mind for owners.",
+    "image": "https://i.postimg.cc/90jXqqyZ/9.jpg",
     "category": "Veterinary"
+  },
+
+  {
+    "serviceId": 10,
+    "serviceName": "Thermal Jacket Custom Tailoring",
+    "providerName": "FurFashion Tailors",
+    "providerEmail": "support@furfashion.com",
+    "price": 45,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Get premium thermal jackets custom-made to fit your pet’s body shape. Our jackets are crafted from windproof and water-resistant materials, providing maximum warmth during extreme winter chills.",
+    "more_des": "Our Thermal Jacket Custom Tailoring service offers luxury-level winter wear crafted precisely for your pet’s comfort. We begin by taking accurate body measurements to ensure the jacket fits perfectly without restricting natural movement. You can choose from a selection of fabrics, including insulated, waterproof, and wind-resistant materials designed to protect against extreme cold. Each jacket is hand-finished with soft linings to prevent irritation. The tailoring process includes style customization, fitting adjustments, and durability checks. This service is ideal for pets with thin coats, small breeds, or senior pets needing extra warmth. The result is a high-quality, stylish jacket built to last all winter.",
+    "image": "https://i.postimg.cc/bJh9Cmhg/10.jpg",
+    "category": "Clothing"
+  },
+
+  {
+    "serviceId": 11,
+    "serviceName": "Winter Paw Spa Deluxe",
+    "providerName": "SnowyPaws Spa",
+    "providerEmail": "spa@snowypaws.com",
+    "price": 28,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "A soothing paw spa session with warm soaks, moisturizing treatments, and protective winter pads. Ideal for pets experiencing dryness or rough paws during cold months.",
+    "more_des": "Winter Paw Spa Deluxe is a specialized treatment designed to restore softness, flexibility, and health to your pet’s paws during harsh winter months. The service begins with a gentle warm soak that relaxes the paws and removes dirt or salt buildup. Next, we apply nourishing oils and deep moisturizing balms to heal cracks, prevent dryness, and strengthen paw pads. Pets also receive protective winter-friendly pads that act as a barrier against snow, ice, and rough surfaces. Every step is performed gently to ensure pets remain calm and comfortable. This spa treatment enhances mobility, reduces irritation, and keeps paws healthy all season long.",
+    "image": "https://i.postimg.cc/L4vGP1tj/11.jpg",
+    "category": "Grooming"
+  },
+
+  {
+    "serviceId": 12,
+    "serviceName": "Portable Winter Shelter Rental",
+    "providerName": "ChillSafe Pets",
+    "providerEmail": "rent@chillsafe.com",
+    "price": 22,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Rent compact, insulated pet shelters perfect for travel or temporary outdoor stays. Each shelter retains warmth, is easy to assemble, and ensures safety even during snowy nights.",
+    "more_des": "The Portable Winter Shelter Rental service provides an excellent temporary solution for pets who need safe warmth during winter outings or travel. Each shelter is designed with insulated, weather-resistant walls that trap heat while blocking wind and moisture. These lightweight shelters can be quickly assembled and folded for convenience. They come in various sizes to suit small and large pets. The interior is lined with soft, easy-to-clean padding to ensure comfort. Whether you're camping, visiting relatives, or keeping outdoor pets warm at night, this shelter ensures maximum protection. Every unit is sanitized and inspected before rental to guarantee safety and hygiene.",
+    "image": "https://i.postimg.cc/xTzyQr1k/12.jpg",
+    "category": "Comfort"
+  },
+
+  {
+    "serviceId": 13,
+    "serviceName": "Winter Fitness Training",
+    "providerName": "FitPet Winter Club",
+    "providerEmail": "train@fitpet.com",
+    "price": 35,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Keep your pet active with winter-friendly workouts, strengthening exercises, and guided training designed to boost stamina and maintain muscle health during colder months.",
+    "more_des": "Winter Fitness Training is a structured exercise program created to help pets stay active and healthy during the cold season. Our sessions combine warm-up routines, safe indoor workouts, balance exercises, and winter-friendly outdoor activities. This training helps maintain muscle strength, support joint flexibility, and prevent winter weight gain. The program is customized to your pet’s age, breed, and energy level, ensuring a balanced workout that enriches both physical and mental well-being. Each session is guided by trained professionals who ensure safety and motivation. This service is perfect for energetic pets who need regular activity and for older pets requiring gentle movement.",
+    "image": "https://i.postimg.cc/t4DzS3T9/13.jpg",
+    "category": "Outdoor Activity"
+  },
+
+  {
+    "serviceId": 14,
+    "serviceName": "Winter Hair Shedding Control",
+    "providerName": "CozyCoat Groomers",
+    "providerEmail": "care@cozycoat.com",
+    "price": 32,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "A specialized grooming session to control excessive winter shedding. Includes warm baths, deep conditioning, and undercoat maintenance for a cleaner and healthier coat.",
+    "more_des": "Winter Hair Shedding Control is designed for pets who experience increased shedding during cold months. The service includes a warm cleansing bath using gentle, moisturizing shampoos that loosen dead hair and soothe dry skin. A deep conditioning treatment follows to nourish both the outer coat and undercoat. Our groomers use de-shedding tools and techniques to remove excess fur without causing discomfort. This service helps reduce fur around the home, prevent matting, and maintain coat health. It also improves circulation and skin hydration. Ideal for long-haired breeds and pets sensitive to winter dryness, this grooming ensures a cleaner, healthier coat all season.",
+    "image": "https://i.postimg.cc/L5BPqSYx/14.jpg",
+    "category": "Grooming"
+  },
+
+  {
+    "serviceId": 15,
+    "serviceName": "Winter Playdate Park Session",
+    "providerName": "FrostyFriends Playzone",
+    "providerEmail": "book@frostyfriends.com",
+    "price": 18,
+    "rating": 4.6,
+    "slotsAvailable": 7,
+    "description": "Join a supervised winter playdate in our indoor heated play park. Pets can socialize, enjoy toys, and stay warm while having tons of seasonal fun.",
+    "more_des": "Winter Playdate Park Session provides a warm and exciting environment where pets can enjoy playful socialization despite the cold weather. Our indoor park is temperature-controlled and equipped with safe play structures, toys, and obstacle areas suitable for pets of various sizes. The session is supervised by trained caretakers who ensure all pets play safely and comfortably. Playdates help reduce winter boredom, improve social behavior, and keep pets active when outdoor time is limited. The experience also helps relieve stress and encourages healthy interaction. Owners can relax knowing their pets are enjoying a warm, cheerful space full of fun activities.",
+    "image": "https://i.postimg.cc/yxbHygZj/15.jpg",
+    "category": "Indoor Activity"
+  },
+
+  {
+    "serviceId": 16,
+    "serviceName": "Pet Scarf & Hat Knitting Class",
+    "providerName": "WarmCraft Studio",
+    "providerEmail": "studio@warmcraft.com",
+    "price": 18,
+    "rating": 4.7,
+    "slotsAvailable": 9,
+    "description": "Learn to knit adorable and warm winter accessories like scarves, hats, and mini-mittens for your pets. All materials included and beginner-friendly.",
+    "more_des": "The Pet Scarf & Hat Knitting Class is a cozy, hands-on crafting experience where participants learn how to make winter accessories tailored for their pets. Our friendly instructors guide learners through basic and intermediate knitting techniques, ensuring even beginners feel confident and supported. We provide soft, warm yarns that are gentle on pet skin and suitable for cold seasons. Participants can choose from multiple designs and sizes, making accessories that fit their pets perfectly. The class promotes creativity, relaxation, and bonding with other pet-loving crafters. You’ll leave with stylish, handmade accessories that keep your pet warm and fashionable throughout winter.",
+    "image": "https://i.postimg.cc/DfsHCN3r/16.jpg",
+    "category": "DIY Workshop"
+  },
+
+  {
+    "serviceId": 17,
+    "serviceName": "Winter Allergy Care Check-Up",
+    "providerName": "SafePet Clinic",
+    "providerEmail": "clinic@safepet.com",
+    "price": 55,
+    "rating": 5.0,
+    "slotsAvailable": 4,
+    "description": "A detailed veterinary examination focusing on common winter allergies such as dry skin, dust sensitivity, and cold-induced irritation. Includes personalized treatment advice.",
+    "more_des": "Winter Allergy Care Check-Up is a specialized diagnostic service aimed at identifying and treating seasonal allergies that often worsen during cold months. Pets can develop sensitivities to dry air, dust, indoor heating, and temperature changes. Our vets perform a full skin, coat, and respiratory examination, checking for signs such as itching, redness, dryness, sneezing, or irritation. We also assess environmental factors and diet that may contribute to allergy symptoms. Based on the findings, we provide personalized treatment plans that may include skincare routines, supplements, medications, or home environment modifications. This service ensures your pet stays comfortable and symptom-free throughout the winter season.",
+    "image": "https://i.postimg.cc/yxQZhPjX/17.jpg",
+    "category": "Veterinary"
+  },
+
+  {
+    "serviceId": 18,
+    "serviceName": "Winter Coat Cleaning & Restoration",
+    "providerName": "FluffyFresh Cleaners",
+    "providerEmail": "clean@fluffyfresh.com",
+    "price": 20,
+    "rating": 4.6,
+    "slotsAvailable": 6,
+    "description": "Deep clean, sanitize, and restore your pet’s winter clothing to look brand new. Ideal for removing snow stains, odors, and keeping fabrics soft and warm.",
+    "more_des": "Winter Coat Cleaning & Restoration ensures your pet’s winter wardrobe stays fresh, clean, and comfortable throughout the season. Our service uses gentle, fabric-safe cleaning solutions that remove dirt, snow salt, odors, and stains without damaging the material. We carefully inspect each coat for wear, loose stitching, or fabric stiffening caused by cold weather. Restoration includes softening treatments, waterproofing reapplication, and minor repairs as needed. Every item is sanitized and dried using pet-safe methods to maintain warmth and fluffiness. This service extends the lifespan of winter clothing and keeps your pet’s jackets looking and feeling like new.",
+    "image": "https://i.postimg.cc/BQ28nJ9h/18.jpg",
+    "category": "Clothing"
+  },
+
+  {
+    "serviceId": 19,
+    "serviceName": "Holiday Snow Photoshoot",
+    "providerName": "SnowLens Photography",
+    "providerEmail": "studio@snowlens.com",
+    "price": 60,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "A premium outdoor snow photoshoot featuring winter-themed backgrounds, props, and high-resolution photography to capture your pet’s festive spirit.",
+    "more_des": "Our Holiday Snow Photoshoot is a magical outdoor photography session designed to capture your pet’s festive winter charm. With professional lighting, high-quality cameras, and snowy natural settings, we create visually stunning portraits that highlight your pet’s personality. Seasonal props, cozy outfits, and themed decor are included to enhance the holiday feel. Our photographers are trained in pet behavior, ensuring your pet feels comfortable, confident, and playful during the shoot. After the session, photos are edited and delivered in high resolution, with options for prints, frames, or digital albums. This service is perfect for holiday cards, gifts, or personal keepsakes.",
+    "image": "https://i.postimg.cc/hGd6HZ7V/19.jpg",
+    "category": "Photography"
+  },
+
+  {
+    "serviceId": 20,
+    "serviceName": "Warm Blanket Personalized Embroidery",
+    "providerName": "CozyThreads Studio",
+    "providerEmail": "orders@cozythreads.com",
+    "price": 25,
+    "rating": 4.8,
+    "slotsAvailable": 8,
+    "description": "Create custom embroidered winter blankets for your pets with their name or initials. Soft, durable materials ensure warmth and comfort throughout the cold season.",
+    "more_des": "Warm Blanket Personalized Embroidery is a thoughtful and stylish way to keep your pet comfortable during the winter months. Each blanket is crafted from soft, durable, and heat-retaining fabric designed to provide maximum warmth. You can choose from a variety of colors, textures, and sizes to suit your pet’s needs. Our embroidery specialists add your pet’s name, initials, or a small symbol to make the blanket uniquely theirs. The stitching is high-quality and long-lasting. These blankets are easy to clean, gentle on skin, and suitable for daily use. They make wonderful gifts and enhance your pet’s winter comfort effortlessly.",
+    "image": "https://i.postimg.cc/C51NVd6N/20.jpg",
+    "category": "Comfort"
   }
 ]

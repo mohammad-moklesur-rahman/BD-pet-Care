@@ -35,8 +35,8 @@ const Navbar = () => {
       <NavLink to="/">Home</NavLink>
       <NavLink to="/services">Services</NavLink>
       <NavLink to="/about">About</NavLink>
-      <NavLink to="/about">About</NavLink>
-      <NavLink to="/about">About</NavLink>
+      <NavLink to="/about">Blog</NavLink>
+      <NavLink to="/about">Privacy</NavLink>
     </>
   );
   return (
