@@ -3,6 +3,8 @@ import { FaStar, FaStarHalfAlt, FaRegStar } from "react-icons/fa";
 import { useEffect, useState } from "react";
 import Loading from "../components/Loading";
 import toast from "react-hot-toast";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 const ServiceDetails = () => {
   const data = useLoaderData();
@@ -19,6 +21,10 @@ const ServiceDetails = () => {
       setDetailsInfo(info);
       setLoading(false);
     }, 500);
+
+    // for aos
+    AOS.init({ duration: 1000, once: false });
+
     return () => clearTimeout(timer);
   }, [data, cardId]);
 
@@ -64,28 +70,34 @@ const ServiceDetails = () => {
     rating,
     providerName,
     providerEmail,
-    description,
+    more_des,
   } = DetailsInfo || {};
 
   return (
     <div className="px-4 md:px-0">
-      <h2 className="text-2xl font-semibold my-4">{serviceName}</h2>
-      <figure>
-        <img className="w-full h-100" src={image} alt="" />
+      <h2 data-aos="fade-right" className="text-2xl font-semibold my-10">
+        {serviceName}
+      </h2>
+      <figure data-aos="fade-up">
+        <img className="w-full h-100 rounded-2xl" src={image} alt="" />
       </figure>
-      <h2 className="text-[18px] font-semibold mt-3 mb-2">{category}</h2>
-      <div className="flex gap-4 font-semibold text-gray-900 mb-2">
-        <p>${price}</p>
-        {/* Show rating icons */}
-        <div className="flex items-center gap-2">
-          {renderStars(rating)}
-          <span className="text-sm text-gray-400">({rating})</span>
+      <div data-aos="fade-up">
+        <h2 className="text-[18px] font-semibold mt-6 mb-2">{category}</h2>
+        <div className="flex gap-4 font-semibold text-gray-900 mb-2">
+          <p>${price}</p>
+          {/* Show rating icons */}
+          <div className="flex items-center gap-2">
+            {renderStars(rating)}
+            <span className="text-sm text-gray-400">({rating})</span>
+          </div>
         </div>
+        <h3 className="text-yellow-600 font-medium">{providerName}</h3>
+        <h3 className="text-yellow-600 font-medium">{providerEmail}</h3>
+        <h2 className="text-[18px] font-semibold mt-3">Description:</h2>
+        <p className="text-gray-500 py-3">{more_des}</p>
       </div>
-      <h3 className="text-yellow-600 font-medium">{providerName}</h3>
-      <h3 className="text-yellow-600 font-medium">{providerEmail}</h3>
-      <p className="text-gray-500 py-3">{description}</p>
 
+      {/* Book Form */}
       <form onSubmit={handelBookForm}>
         <fieldset className="fieldset rounded-box w-xs p-4 mb-8">
           <label className="label">Email</label>
