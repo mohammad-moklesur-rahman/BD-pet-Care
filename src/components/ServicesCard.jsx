@@ -15,8 +15,9 @@ const dataPromice = data();
 const ServicesCard = () => {
   const servicesData = use(dataPromice);
   const navigate = useNavigate();
-  const sliceData = servicesData.slice(0, 6);
+  const sliceData = servicesData.slice(0, 8);
 
+  // for aos
   useEffect(() => {
     AOS.init({
       duration: 1000,
@@ -51,18 +52,19 @@ const ServicesCard = () => {
       >
         Popular Winter Care Services
       </h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8">
         {sliceData.map((serviceInfo) => (
           <div
+            data-aos="fade-up"
             key={serviceInfo.serviceId}
             className="hover:scale-105 cursor-pointer transition-all"
           >
-            <div className="card bg-base-100 shadow-sm">
+            <div className="card bg-base-100 shadow-sm h-full">
               <figure className="px-4 pt-4">
                 <img
                   src={serviceInfo.image}
                   alt={serviceInfo.category}
-                  className="rounded-xl h-50 w-full"
+                  className="rounded-xl h-30 w-full"
                 />
               </figure>
               <div className="card-body">
@@ -82,7 +84,7 @@ const ServicesCard = () => {
                     onClick={() =>
                       navigate(`/services/details/${serviceInfo.serviceId}`)
                     }
-                    className="btn text-white px-6 bg-gray-600 hover:bg-gray-800"
+                    className="btn text-white px-6 bg-[#717171] hover:bg-gray-800"
                   >
                     View Details
                   </button>
@@ -93,7 +95,10 @@ const ServicesCard = () => {
         ))}
       </div>
       <div data-aos="fade-right" className="flex justify-center">
-        <button onClick={() => navigate('/services')} className="btn text-white px-6 bg-yellow-700 hover:bg-yellow-900 my-6">
+        <button
+          onClick={() => navigate("/services")}
+          className="btn text-white px-6 bg-yellow-700 hover:bg-yellow-900 my-6"
+        >
           Show more Services
         </button>
       </div>
