@@ -1,21 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 @import "tailwindcss";
-@plugin "daisyui";
+@plugin "daisyui" {
+  themes: light --default;
+}
 
-*{
+* {
   font-family: "Poppins", sans-serif;
 }
 
-.bgImg{
+.bgImg {
   height: 100vh;
-  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9)), url(../src/assets/background1.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)),
+    url(../src/assets/background1.jpg);
   background-size: cover;
   background-position: bottom left;
   background-repeat: no-repeat;
 }
 
-.authImg{
+.authImg {
   height: 100vh;
   background: url(../src/assets/auth.png);
   background-size: cover;
@@ -23,8 +26,8 @@
   background-repeat: no-repeat;
 }
 
-.active{
-  @apply border border-red-300
+.active {
+  @apply border border-red-300;
 }
 
 .swiper {
